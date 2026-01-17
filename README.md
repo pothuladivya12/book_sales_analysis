@@ -1,0 +1,2 @@
+# book_sales_analysis
+EDA-based Python project analyzing book sales and reader ratings to uncover trends, correlations, and factors influencing sales performance. Uses Pandas, NumPy, Matplotlib, and Seaborn for data cleaning, visualization, and insights.
